@@ -1,2 +1,4 @@
 # goff-project1
-Goff project description
+
+Base repository for coffeescript items.
+
